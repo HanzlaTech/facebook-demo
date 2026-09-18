@@ -1,0 +1,26 @@
+2026-09-19 01:30:00,069--INFO -- requeset recv at middleware
+2026-09-19 01:30:00,071--INFO -- url in list path
+2026-09-19 01:30:00,101--INFO -- eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyaWQiOjQxLCJleHAiOjE3ODk3ODE5MTd9.rUPavf-DzkHBYeg_vViw6cx75ILFRb65OBZh7LiAhcU
+2026-09-19 01:30:00,102--INFO -- req recieved at signup function
+2026-09-19 01:30:00,103--INFO -- cursor is made in singup.js
+2026-09-19 01:30:00,103--INFO -- req recieved at sevice singp
+2026-09-19 01:30:02,141--INFO -- email is valid
+2026-09-19 01:30:02,141--INFO -- image is verified
+2026-09-19 01:30:02,142--INFO -- file is saved
+2026-09-19 01:30:02,144--INFO -- db query is execute
+2026-09-19 01:30:02,145--INFO -- ms subject is set 
+2026-09-19 01:30:04,711--INFO -- SMTPAuthenticationError
+2026-09-19 01:32:41,714--INFO -- include user router
+2026-09-19 01:32:44,264--INFO -- include user router
+2026-09-19 01:33:29,448--INFO -- requeset recv at middleware
+2026-09-19 01:33:29,448--INFO -- url in list path
+2026-09-19 01:33:29,467--INFO -- eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyaWQiOjQxLCJleHAiOjE3ODk3ODE5MTd9.rUPavf-DzkHBYeg_vViw6cx75ILFRb65OBZh7LiAhcU
+2026-09-19 01:33:29,467--INFO -- req recieved at signup function
+2026-09-19 01:33:29,468--INFO -- cursor is made in singup.js
+2026-09-19 01:33:29,468--INFO -- req recieved at sevice singp
+2026-09-19 01:33:31,618--INFO -- email is valid
+2026-09-19 01:33:31,650--INFO -- image is verified
+2026-09-19 01:33:31,651--INFO -- file is saved
+2026-09-19 01:33:31,655--INFO -- db query is execute
+2026-09-19 01:33:31,663--INFO -- ms subject is set 
+2026-09-19 01:33:52,697--INFO -- TimeoutError
