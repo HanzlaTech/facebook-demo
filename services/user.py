@@ -161,7 +161,7 @@ async def signup_user(cursor:pymysql.cursors.DictCursor,email:str,password:str,b
     )
 
 
-
+# this is demo branch commit
 def verify_otp(otp:str,cursor:pymysql.cursors.DictCursor,userid:int):
    log.info("req recieved at servie otp")
    cursor.execute("select * from otp where userid=%s",(userid))
